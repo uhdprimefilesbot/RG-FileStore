@@ -33,11 +33,11 @@ Send Me any Media or File. I can Work In Channel too. Add Me to Channel with Edi
 │
 ├🔹 **Hosted On:** [Heroku](https://heroku.com)
 │
-├🔸 **Developer:** [Predator HackerzZ](https://t.me/OwnYourBotz) 
+├🔸 **Developer:** [Predator HackerzZ](krishna) 
 │
-├🔹 **Bot Support:** [Support Group](https://t.me/TeleRoid14)
+├🔹 **Bot Support:** [Support Group](krishna)
 │
-├🔸 **Bot Updates:** [Bots Channel](https://t.me/TeleRoidGroup)
+├🔸 **Bot Updates:** [Bots Channel](krishna)
 │
 ╰──────[ 😎 ]───────────⍟
 """
